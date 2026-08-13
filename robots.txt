@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-60mcsy.juragan89c.online/sitemap.xml
